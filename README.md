@@ -1,10 +1,12 @@
 # Central de Erros
 <p>API REST para centralizar erros. Projeto prático do programa acelera dev de Java da Codenation. </p>
-<p>Tecnologias utilizadas: Spring, Java 11, Hibernate ORM com Mariadb, Spring Fox, Swagger, JWT. </p>
+<p>Tecnologias utilizadas: Spring, Java 11, Maven, Hibernate ORM com Mariadb, Spring Fox, Swagger, JWT. </p>
 <p>Configurações relacionadas ao banco de dados (pode ser trocado para PostgreSQL, ou qualquer outro compatível com Hibernate) e à aplicação podem ser alteradas em "src/main/resources/application.properties". </p> 
+
+
 # Endpoints da API
 <p>Todas as entradas e saidas usam o formato JSON.</p>
-<p>Para abrir a documentação completa da API /swagger-ui.html</p>
+<p>Para abrir a documentação completa da API, execute a aplicação e navegue até localhost:8080/swagger-ui.html</p>
 
 <pre>
   <code>
