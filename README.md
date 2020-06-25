@@ -9,21 +9,21 @@ Todas as entradas e saidas usam o formato JSON.
 Para abrir a documentação completa da API /swagger-ui.html
 
 /usuario/cadastrar
-  POST / - Cadastra um usuário no sistema.
+<p> *POST* / - Cadastra um usuário no sistema.</p>
 
 /ususario/excluir
-  DELETE / - Deleta um usuário existente.
+<p>*DELETE* / - Deleta um usuário existente.</p>
   
 /usuario/token
-  POST / - Solicita um token de acesso para o servidor.
+ <p>*POST* / - Solicita um token de acesso para o servidor.</p>
 
 /logs
-  GET / - Consulta todos os logs que já foram salvos. Esse endpoint suporta filtragem por atributos e configurações de paginação
-  na url de requisição (veja a documentação em /swagger-ui.html).
+<p>*GET* / - Consulta todos os logs que já foram salvos. Esse endpoint suporta filtragem por atributos e configurações de paginação
+  na url de requisição (veja a documentação em /swagger-ui.html).</p>
 
 /logs
-  POST / - Salva um novo registro de erro.
+<p>*POST* / - Salva um novo registro de erro.</p>
   
 /logs/{id}
-  GET / - Consulta um registro de erro com base no id.
+<p>*GET* / - Consulta um registro de erro com base no id.</p>
 
