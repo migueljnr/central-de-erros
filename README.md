@@ -1,5 +1,5 @@
 # Central de Erros
-<p>API REST para centralizar erros. Projeto prático do programa acelera dev de Java da Codenation. </p>
+<p>API REST para centralizar erros. Projeto prático do programa Acelera Dev de Java, da Codenation. </p>
 <p>Tecnologias utilizadas: Spring, Java 11, Maven, Hibernate ORM com Mariadb, Spring Fox, Swagger, JWT. </p>
 <p>Configurações relacionadas ao banco de dados (pode ser trocado para PostgreSQL, ou qualquer outro compatível com Hibernate) e à aplicação podem ser alteradas em "src/main/resources/application.properties". </p> 
 
