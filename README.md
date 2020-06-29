@@ -3,6 +3,13 @@
 <p>Tecnologias utilizadas: Spring, Java 11, Maven, Hibernate ORM com Mariadb, Spring Fox, Swagger, JWT. </p>
 <p>Configurações relacionadas ao banco de dados (pode ser trocado para PostgreSQL, ou qualquer outro compatível com Hibernate) e à aplicação podem ser alteradas em "src/main/resources/application.properties". </p> 
 
+#Teste  do Aplicativo
+
+<p>Versão empacotada com h2 e alguns registros para teste. Um usuário padrão (usuario : usuario, senha : 1234567) foi criado, mas outros usuarios poderão ser criados
+conforme a documentação da api. </p>
+<p>Requerimentos: Java 11 ou versão superior. </p>
+<p> Baixe : https://drive.google.com/file/d/1D1lcvdTbKUHoWhIILGpCD4nmuc3eaLX6/view?usp=sharing  e execute java -jar central_de_erros.</p>
+
 
 # Endpoints da API
 <p>Todas as entradas e saidas usam o formato JSON.</p>
