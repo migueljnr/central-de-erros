@@ -9,7 +9,7 @@
 conforme a documentação da api. </p>
 <p>Requerimentos: Java 11 ou versão superior. </p>
 <p> Baixe : https://drive.google.com/file/d/1D1lcvdTbKUHoWhIILGpCD4nmuc3eaLX6/view?usp=sharing e execute java -jar central_de_erros.</p>
-<p>Aplicação no Heroku: https://centralderros.herokuapp.com/</p>
+<p>Aplicação no Heroku: https://centralderros.herokuapp.com/ </p>
 
 
 # Endpoints da API
